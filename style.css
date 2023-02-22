@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Tahoma, serif;
+    margin: 0;
+}
+#main{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+.head{
+    margin: 0;
+    height: 70px;
+}
+.head-tieude{
+    margin: auto;
+    padding: 15px 0px 0px 15px ;
+    color: #fff;
+}
+.content-body1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.body{
+    width: 450px;
+    border: 1px #ccc solid;
+    box-shadow: 2px 2px 2px 2px #ccc8c8;
+}
+.body1-p{
+    padding-left: 10px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.body1-img{
+    width: 450px;
+    height: 250px;
+}
+.head{
+    background-color: green;
+}
